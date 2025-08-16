@@ -27,4 +27,3 @@ The dataset (`nobel.csv`) contains details about Nobel Prize winners from 1901 o
 
 - Python  
 - pandas
-- 
