@@ -1,4 +1,4 @@
-![NOBEL_PRIZE]("blob:https://www.datacamp.com/a41a6916-227e-4afe-a544-d16dbcba08b5")
+![NOBEL_PRIZE](https://github.com/muhammadrehanazam/NOBEL_PRIZE/blob/main/Nobel_Prize.png)
 #🏅 Nobel Prize Data Analysis
 
 This project explores the Nobel Prize dataset to uncover key insights about the laureates.
