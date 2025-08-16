@@ -1,37 +1,30 @@
 ![NOBEL_PRIZE](https://github.com/muhammadrehanazam/NOBEL_PRIZE/blob/main/Nobel_Prize.png)
-#🏅 Nobel Prize Data Analysis
 
-This project explores the Nobel Prize dataset to uncover key insights about the laureates.
-Using Python (pandas, matplotlib, seaborn), we analyze patterns across time, categories, gender, and geography.
+# 🏅 Nobel Prize Data Analysis
 
-##📂 Dataset
+This project explores the Nobel Prize dataset to uncover key insights about the laureates.  
+Using Python (**pandas**), we analyze patterns across time, categories, gender, and geography.
 
-The dataset (nobel.csv) contains details about Nobel Prize winners from 1901 onwards, including:
+## 📂 Dataset
 
-Year of award
+The dataset (`nobel.csv`) contains details about Nobel Prize winners from 1901 onwards, including:
 
-Category (e.g., Physics, Chemistry, Peace, etc.)
+- Year of award  
+- Category (e.g., Physics, Chemistry, Peace, etc.)  
+- Laureate name and gender  
+- Birth country and birth date  
+- Prize share (whether the award was shared)  
 
-Laureate name and gender
+## 🎯 Objectives
 
-Birth country and birth date
+- Identify the most commonly awarded gender and country  
+- Find the decade with the highest ratio of US-born laureates  
+- Discover the category & decade with the most female representation  
+- Highlight the first female Nobel laureate  
+- List individuals/organizations with multiple Nobel Prizes  
 
-Prize share (whether the award was shared)
+## 🛠️ Tools & Libraries
 
-#🎯 Objectives
-
-Identify the most commonly awarded gender and country
-
-Find the decade with the highest ratio of US-born laureates
-
-Discover the category & decade with the most female representation
-
-Highlight the first female Nobel laureate
-
-List individuals/organizations with multiple Nobel Prizes
-
-#🛠️ Tools & Libraries
-
-Python
-
-pandas
+- Python  
+- pandas
+- 
