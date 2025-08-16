@@ -1,8 +1,10 @@
-🏅 Nobel Prize Data Analysis
+![NOBEL_PRIZE]("blob:https://www.datacamp.com/a41a6916-227e-4afe-a544-d16dbcba08b5")
+#🏅 Nobel Prize Data Analysis
 
-This project explores the Nobel Prize dataset to uncover key insights about the history of Nobel laureates. Using Python (pandas, matplotlib, seaborn), we analyze patterns across time, categories, genders, and countries.
+This project explores the Nobel Prize dataset to uncover key insights about the laureates.
+Using Python (pandas, matplotlib, seaborn), we analyze patterns across time, categories, gender, and geography.
 
-📂 Dataset
+##📂 Dataset
 
 The dataset (nobel.csv) contains details about Nobel Prize winners from 1901 onwards, including:
 
@@ -16,56 +18,20 @@ Birth country and birth date
 
 Prize share (whether the award was shared)
 
-📊 Key Questions Answered
+#🎯 Objectives
 
-Most Commonly Awarded Gender and Birth Country
+Identify the most commonly awarded gender and country
 
-Male laureates dominate.
+Find the decade with the highest ratio of US-born laureates
 
-The United States of America has produced the most laureates.
+Discover the category & decade with the most female representation
 
-Which Decade Favored US-born Laureates?
+Highlight the first female Nobel laureate
 
-Identified the decade with the highest ratio of US-born winners to total winners.
+List individuals/organizations with multiple Nobel Prizes
 
-Female Laureates
-
-Found the decade and category where women had the highest representation.
-
-Identified the first woman Nobel laureate (Marie Curie, 1903, Physics).
-
-Multiple-time Winners
-
-Detected individuals/organizations who won more than once.
-
-🛠️ Tools & Libraries
+#🛠️ Tools & Libraries
 
 Python
 
-pandas (data cleaning & analysis)
-
-matplotlib & seaborn (visualizations)
-
-Jupyter Notebook (interactive workflow)
-
-🚀 Skills Learned
-
-Data wrangling & cleaning with pandas
-
-Feature engineering (decade grouping, ratio analysis)
-
-Exploratory Data Analysis (EDA)
-
-Handling categorical data
-
-Presenting insights with clarity
-
-📌 Results Highlight
-
-Nobel Prizes have been awarded predominantly to Male scientists from the USA.
-
-The 2000s saw the highest share of US-born laureates.
-
-Marie Curie was the first woman laureate and remains the only person to win in two scientific fields (Physics & Chemistry).
-
-Organizations like the International Committee of the Red Cross have won multiple Peace Prizes.
+pandas
